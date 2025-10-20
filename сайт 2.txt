@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Мой сайт</title>
-</head>
-<body>
-  <h1>Привет, Andrei!</h1>
-  <p>Это мой первый сайт, сделанный в Notepad++.</p>
-</body>
-</html>
-<body style="background-color: lightblue;">
+
